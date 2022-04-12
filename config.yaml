@@ -4,6 +4,9 @@ theme: hugo-theme-stack
 paginate: 5
 title: kwwgoo
 
+frontmatter:
+  lastmod: [":fileModTime", "lastmod"]
+
 languages:
     zh-cn:
         languageName: 中文
