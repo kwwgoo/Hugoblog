@@ -1,8 +1,8 @@
 ---
 title: "Friends"
 date: 2022-04-10T20:52:18+08:00
-layout: "hash"
-slug: "hash"
+layout: "friends"
+slug: "friends"
 menu:
     main:
         weight: -50
