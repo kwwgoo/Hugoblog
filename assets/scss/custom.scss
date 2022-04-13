@@ -1,1 +1,52 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+// 设置选中字体的区域背景颜色
+::selection {
+    background: #dae3ea;
+    color: #34495e;
+  }
+  
+  ::-moz-selection {
+    background: #dae3ea;
+    color: #34495e;
+  }
+  
+  ::-webkit-selection {
+    background: #dae3ea;
+    color: #34495e;
+  }
+
+:root {
+    // 字体颜色
+    --card-text-color-main: #34495e;
+}
+
+:root {
+    // 行内代码背景色
+    --code-background-color: #f8f8f8;
+    // 行内代码前景色
+    --code-text-color: #e96900;
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--accent-color);
+
+    &:hover {
+        color: var(--accent-color-darker);
+    }
+
+    &.link {
+        color: #42b983;
+        font-weight: 600;
+        padding: 0 2px;
+        text-decoration: none;
+        cursor: pointer;
+        
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
+
+
