@@ -10,6 +10,9 @@ menu:
         params:
             icon: clock
 ---
+## 2022/4/13
+正式添加站点图标，[站点图标来源](https://realfavicongenerator.net/)
+
 ## 2022/4/12
 正式搭建个人博客，采用Hugo+Stack+GihubPage,采用GihubAction自动化部署博客
 增加[Bber界面](https://zl-maker.github.io/p/hugo-suosuo/)，采用[twikoo评论](https://twikoo.js.org/)

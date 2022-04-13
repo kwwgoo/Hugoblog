@@ -36,7 +36,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 
+    favicon: /img/favicon/favicon.ico
 
     footer:
         since: 2022
@@ -109,7 +109,7 @@ params:
 
         twikoo:
             envId: twikoo-3gos5ikbf8bca455
-            region:
+            region: 
             path:
             lang:
 
@@ -167,7 +167,7 @@ params:
         opengraph:
             enabled: false
             local: false
-            src:
+            src: 
 
     colorScheme:
         # Display toggle
