@@ -1,11 +1,14 @@
 ---
 title: "Shotcodes"
 date: 2022-04-14T11:53:22+08:00
-description: ""
+description: "自定义的一些shortcodes"
 draft: false
 image: 'featured-image.jpg'
 categories:
+    - tech
 tags:
+    - stack
+    - hugo
 hidden: false
 lastmod: 
 ---

@@ -5,7 +5,10 @@ description: "记录一些魔改的教程"
 draft: false
 image: 
 categories:
+    - tech
 tags:
+    - stack
+    - hugo
 hidden: false
 lastmod: 
 ---
@@ -14,7 +17,8 @@ lastmod:
 >[Echosec](https://blog.echosec.top/p/custom-hugo-theme-styles/)
 >[XR_G's Blog](https://xrg.fj.cn/p/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%973/)
 >[雨临Lewis](https://lewky.cn/posts/hugo-3.html/)
-
+>[zhixuan's Blog](https://blog.zhixuan.dev/posts/ac760353/)
+>[L1nSn0w's Blog](https://blog.linsnow.cn/)
 ## 样式修改
 所有自定样式CSS代码都在`\assets\scss\custom.scss`中，修改的地方都已经注释
 ```css
