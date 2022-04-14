@@ -10,6 +10,8 @@ menu:
         params:
             icon: clock
 ---
+## 2022/4/14
+正式添加友链，撰写魔改过程。添加自定义shortcodes.
 ## 2022/4/13
 正式添加站点图标，[站点图标来源](https://realfavicongenerator.net/)
 

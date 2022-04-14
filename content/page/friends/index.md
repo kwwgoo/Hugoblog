@@ -8,6 +8,7 @@ menu:
         weight: -50
         params: 
             icon: hash
+toc: false
 ---
 ## 朋友圈
 
