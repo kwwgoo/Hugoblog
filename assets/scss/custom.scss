@@ -1,18 +1,18 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
 // 设置选中字体的区域背景颜色
 ::selection {
-    background: #dae3ea;
-    color: #34495e;
+    color: #fff;
+    background: #557697;
   }
   
   ::-moz-selection {
-    background: #dae3ea;
-    color: #34495e;
+    color: #fff;
+    background: #557697;
   }
   
   ::-webkit-selection {
-    background: #dae3ea;
-    color: #34495e;
+    color: #fff;
+    background: #557697;
   }
 
 :root {
@@ -27,7 +27,7 @@
     --code-text-color: #e96900;
 }
 
-
+//链接颜色修改
 a {
     text-decoration: none;
     color: var(--accent-color);
@@ -50,3 +50,50 @@ a {
 }
 
 
+//滚动条美化
+.widget--toc {
+    #TableOfContents {
+        max-height: 65vh;
+
+        ol,
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            margin: 10px 10px;
+
+            & > ol,
+            & > ul {
+                margin-top: 10px;
+                padding-left: 10px;
+                margin-bottom: -5px;
+
+                & > li:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
+//全局滚动条美化
+html{
+    ::-webkit-scrollbar {
+        width: 20px;
+      }
+      
+      ::-webkit-scrollbar-track {
+        background-color: transparent;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background-color: #d6dee1;
+        border-radius: 20px;
+        border: 6px solid transparent;
+        background-clip: content-box;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background-color: #a8bbbf;
+      }
+}
