@@ -1,34 +1,20 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+title: "About"
+date: 2022-04-19T19:03:56+08:00
+layout: "about"
+slug: "about"
 menu:
-    main: 
-        weight: -90
-        params:
+    main:
+        weight: -70
+        params: 
             icon: user
+toc: false
 ---
+## 关于我
+出生在湖北边陲的一个小镇中，相信七分天注定，三分靠打拼。从小体弱多病，性格忧郁，喜欢独处，偶尔也会感到寂寞，不喜麻烦。
+## 穷光电之理，究工程之极
+对于一切科学技术都感兴趣，希望成为一名有技术的工程师。今将就读于物理系光学方向，如果将来可以在光学方向做出一点小小的贡献，我就心满意足了，穷光电之理，究工程之极。
+## 博客
+创建这个博客是为了在浩瀚无垠的互联网世界中留下自己一些痕迹。也是为了方便自己复习和巩固学过的一些知识和记录一些难忘的生活经历和感悟。
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

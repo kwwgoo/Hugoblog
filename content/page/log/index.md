@@ -6,7 +6,7 @@ layout: "log"
 slug: "log"
 menu:
     main: 
-        weight: -50
+        weight: -10
         params:
             icon: clock
 ---

@@ -6,7 +6,7 @@ layout: "bber"
 slug: "bber"
 menu:
     main:
-        weight: -70
+        weight: -50
         params: 
             icon: infinity
 ---
