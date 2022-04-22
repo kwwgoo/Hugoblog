@@ -499,3 +499,16 @@ url="lewky.cn"
 logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg"
 word="不想当写手的码农不是好咸鱼_(xз」∠)_"
 >}}
+
+
+## 添加文章自动更新功能
+在`config.yml`中添加
+```
+enableGitInfo: true
+frontmatter:
+  #lastmod: [":fileModTime", "lastmod"]
+    lastmod: [":git", "lastmod"]
+```
+可以根据本地文章修改的生成时间，但是这样所有文章界面都会改变。所以我又找了根据git生成信息来更新时间，但是需要Github Action自动化部署，怎样自动化部署可以参考[如何將Hugo部落格部署到Github上?](https://yurepo.tw/2021/03/%E5%A6%82%E4%BD%95%E5%B0%87hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E9%83%A8%E7%BD%B2%E5%88%B0github%E4%B8%8A/)
+
+## 
