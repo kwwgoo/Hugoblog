@@ -44,5 +44,52 @@ git submodule update
 这样主题文件就出现了，当写下第一篇文章，并在本地检查没有错误后就可以部署到GithubPage了。
 
 ## 自动化部署
+Github Actions 可以帮你自动执行 Hugo 的编译、部署，配置好之后平时只需要维护一份 hugo 博客的源码，push 时自动发布到 Github Pages 上。
+### Github Action文件
+你的 Github Pages 仓库需要有两个分支：一个分支 hugo 保存 hugo 博客源码，一个分支 `gh-pages` 保存生成的 `public` 静态网站。当然你另建一个独立的仓库保存博客源码也是可以的。
 
-具体可以参考这篇文章,[如何將Hugo部落格部署到Github上?](https://yurepo.tw/2021/03/%E5%A6%82%E4%BD%95%E5%B0%87hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E9%83%A8%E7%BD%B2%E5%88%B0github%E4%B8%8A/)
+在 hugo 分支下新建 `.github/workflows/main.yml`，参照 actions-hugo 官方文档的描述添加：
+```
+name: Hugo
+
+on:
+  push:
+    branches:
+      - main  # 當main分支有push操作時
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # 找尋Hugo主題(true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.94.2' # hugo 版本
+          extended: true  # 如果是使用extended版本的務必取消註解。
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          PUBLISH_BRANCH: gh-pages  # 推送到 gh-pages 分支
+          PUBLISH_DIR: ./public     # hugo 生成的目錄
+          commit_message: ${{ github.event.head_commit.message }}
+```
+
+### Deploy Key
+`settings`->`Developer settings`->`Personal access tokens`->`Generate new token`
+
+勾选`repo`即可
+打开你的博客源码仓库，`Settings`->`Secrets`->`New repository secret`，Name 填 `HUGO_DEPLOY_TOKEN`,然后将Token粘贴即可。
+
+## 参考
+[使用 Github Actions 自动部署 Hugo 博客](https://zenlian.github.io/posts/tools/github-actions-hugo/#fn:4)
+[hugo博客自动化部署到github和云服务器上](https://www.liuvv.com/p/35554ffc.html)
