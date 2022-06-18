@@ -85,11 +85,9 @@ jobs:
 ```
 
 ### Deploy Key
-`settings`->`Developer settings`->`Personal access tokens`->`Generate new token`
-
-勾选`repo`即可
+`settings`->`Developer settings`->`Personal access tokens`->`Generate new token`,勾选`repo`即可<br/>
 打开你的博客源码仓库，`Settings`->`Secrets`->`New repository secret`，Name 填 `HUGO_DEPLOY_TOKEN`,然后将Token粘贴即可。
 
 ## 参考
-[使用 Github Actions 自动部署 Hugo 博客](https://zenlian.github.io/posts/tools/github-actions-hugo/#fn:4)
+[使用 Github Actions 自动部署 Hugo 博客](https://zenlian.github.io/posts/tools/github-actions-hugo/#fn:4)</br>
 [hugo博客自动化部署到github和云服务器上](https://www.liuvv.com/p/35554ffc.html)
