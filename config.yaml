@@ -40,8 +40,8 @@ params:
     favicon: /img/favicon/favicon.ico
 
     footer:
-        since: 2022
-        customText:
+        since: 2023
+        customText: 
 
     dateFormat:
         published: Jan 02, 2006
