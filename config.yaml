@@ -192,7 +192,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/kwwgoo
+          url: https://github.com/kwwgo
           params:
               icon: brand-github
 
