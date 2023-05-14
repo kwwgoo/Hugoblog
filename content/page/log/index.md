@@ -4,12 +4,15 @@ date: 2022-04-12T11:36:40+08:00
 description: "记录搭建博客时的一些信息"
 layout: "log"
 slug: "log"
+toc: false
 menu:
     main: 
         weight: -10
         params:
             icon: clock
 ---
+## 2022/4/14
+全面精简，删除不必要的东西
 ## 2022/4/14
 正式添加友链，撰写魔改过程。添加自定义shortcodes.
 ## 2022/4/13

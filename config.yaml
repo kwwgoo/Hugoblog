@@ -37,7 +37,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /img/favicon/favicon.ico
+    favicon: /img/favicon.png
 
     footer:
         since: 2023
@@ -64,7 +64,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: twikoo
 
         disqusjs:
