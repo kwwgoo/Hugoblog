@@ -11,14 +11,8 @@ tags:
     - hugo
 hidden: false
 lastmod: 
+slug: "revisestack"
 ---
->主要参考
->[小球飞鱼](https://mantyke.icu/2022/stack-theme-mod/)
->[Echosec](https://blog.echosec.top/p/custom-hugo-theme-styles/)
->[XR_G's Blog](https://xrg.fj.cn/p/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%973/)
->[雨临Lewis](https://lewky.cn/posts/hugo-3.html/)
->[zhixuan's Blog](https://blog.zhixuan.dev/posts/ac760353/)
->[L1nSn0w's Blog](https://blog.linsnow.cn/)
 ## 样式修改
 所有自定样式CSS代码都在`\assets\scss\custom.scss`中，修改的地方都已经注释
 ```css
@@ -509,6 +503,11 @@ frontmatter:
   #lastmod: [":fileModTime", "lastmod"]
     lastmod: [":git", "lastmod"]
 ```
-可以根据本地文章修改的生成时间，但是这样所有文章界面都会改变。所以我又找了根据git生成信息来更新时间，但是需要Github Action自动化部署，怎样自动化部署可以参考[如何將Hugo部落格部署到Github上?](https://yurepo.tw/2021/03/%E5%A6%82%E4%BD%95%E5%B0%87hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E9%83%A8%E7%BD%B2%E5%88%B0github%E4%B8%8A/)
 
-## 
+>主要参考
+>[小球飞鱼](https://mantyke.icu/2022/stack-theme-mod/)
+>[Echosec](https://blog.echosec.top/p/custom-hugo-theme-styles/)
+>[XR_G's Blog](https://xrg.fj.cn/p/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%973/)
+>[雨临Lewis](https://lewky.cn/posts/hugo-3.html/)
+>[zhixuan's Blog](https://blog.zhixuan.dev/posts/ac760353/)
+>[L1nSn0w's Blog](https://blog.linsnow.cn/)
