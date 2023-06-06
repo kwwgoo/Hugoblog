@@ -1,6 +1,6 @@
 ---
 title: "Optical"
-image: 'bg.jpg'
+image: ''
 description: "写一些光学知识"
 slug: "optical"
 style:

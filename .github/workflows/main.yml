@@ -26,7 +26,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          personal_token: ${{secrets.HUGO_DEPLOY_TOKEN}}
+          external_repository: kwwgo/kwwgo.github.io
           PUBLISH_BRANCH: gh-pages  # 推送到 gh-pages 分支
           PUBLISH_DIR: ./public     # hugo 生成的目錄
           commit_message: ${{ github.event.head_commit.message }}
