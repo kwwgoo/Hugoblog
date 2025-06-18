@@ -49,7 +49,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: 神经病一个
+        subtitle: 无
         avatar:
             enabled: true
             local: true
