@@ -1,7 +1,7 @@
 ---
 title: "Optical"
 image: ''
-description: "写一些光学知识"
+description: "光学"
 slug: "optical"
 style:
     background: "#2a9d8f"
