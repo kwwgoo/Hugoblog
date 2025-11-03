@@ -5,14 +5,14 @@
         <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on kwwgoo&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <lastBuildDate>Wed, 18 Jun 2025 11:06:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language>
+        <lastBuildDate>Mon, 03 Nov 2025 21:28:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Computer science</title>
         <link>http://localhost:1313/categories/tech/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/tech/</guid>
-        <description></description>
+        <description>&lt;img src="http://localhost:1313/categories/tech/python.png" alt="Featured image of post Computer science" /&gt;</description>
         </item>
         <item>
         <title>Lifes</title>
@@ -20,7 +20,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/lives/</guid>
-        <description></description>
+        <description>&lt;img src="http://localhost:1313/categories/lives/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg" alt="Featured image of post Lifes" /&gt;</description>
         </item>
         <item>
         <title>Optical</title>
@@ -28,7 +28,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/optical/</guid>
-        <description></description>
+        <description>&lt;img src="http://localhost:1313/categories/optical/opt.png" alt="Featured image of post Optical" /&gt;</description>
         </item>
         
     </channel>

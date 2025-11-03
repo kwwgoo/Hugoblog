@@ -9,10 +9,11 @@ frontmatter:
   #lastmod: [":fileModTime", "lastmod"]
     lastmod: [":git", "lastmod"]
 languages:
-    zh-cn:
-        languageName: 中文
+    en:
+        languageName: en
         title: kwwgoo's Blog
         weight: 1
+
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -22,7 +23,7 @@ googleAnalytics: G-L2B1SEKEM3
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
-DefaultContentLanguage: zh-cn
+DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.

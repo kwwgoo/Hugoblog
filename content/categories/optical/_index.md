@@ -1,7 +1,7 @@
 ---
 title: "Optical"
-image: ''
-description: "光学技术"
+image: 'Opt.png'
+description: "光学"
 slug: "optical"
 style:
     background: "#2a9d8f"

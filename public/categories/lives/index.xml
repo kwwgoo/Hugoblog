@@ -5,6 +5,6 @@
         <link>http://localhost:1313/categories/lives/</link>
         <description>Recent content in Lifes on kwwgoo&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://localhost:1313/categories/lives/index.xml" rel="self" type="application/rss+xml" />
+        <language>en</language><atom:link href="http://localhost:1313/categories/lives/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
