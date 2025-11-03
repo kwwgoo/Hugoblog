@@ -1,6 +1,6 @@
 ---
-title: "IT技术"
-description: "记录一些相关的技术或经验"
+title: "Computer science"
+description: "记录一些相关的计算机技术或经验"
 image: ""
 slug: "tech"
 style:

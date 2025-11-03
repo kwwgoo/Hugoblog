@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on kwwgoo&#39;s Blog</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on kwwgoo&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 02 Nov 2025 22:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 19 Apr 2022 19:03:56 +0800</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h4 id=&#34;光学工程师目前从事光学装调技术想成为光学领域的专家但目前实际上只是测物镜调机器和拧螺丝罢了还是小菜鸟计划三年内成为一名入门的光学工程师加油加油&#34;&gt;光学工程师，目前从事光学装调技术，想成为光学领域的专家（但目前实际上只是测物镜，调机器和拧螺丝罢了，还是小菜鸟），计划三年内成为一名入门的光学工程师，加油加油！
+&lt;/h4&gt;&lt;h4 id=&#34;焦虑症患者积极调整自己恢复中希望我能慢慢的坚持的下来每天改变一点点一定可以康复的&#34;&gt;焦虑症患者，积极调整自己恢复中，希望我能慢慢的坚持的下来，每天改变一点点，一定可以康复的！
+&lt;/h4&gt;</description>
+        </item>
+        <item>
+        <title>Log</title>
+        <link>http://localhost:1313/log/</link>
+        <pubDate>Tue, 12 Apr 2022 11:36:40 +0800</pubDate>
+        
+        <guid>http://localhost:1313/log/</guid>
+        <description>&lt;h2 id=&#34;2025112&#34;&gt;2025/11/2
+&lt;/h2&gt;&lt;p&gt;再次删除一些东西&lt;/p&gt;
+&lt;h2 id=&#34;2025618&#34;&gt;2025/6/18
+&lt;/h2&gt;&lt;p&gt;再次精简&lt;/p&gt;
+&lt;h2 id=&#34;2023420&#34;&gt;2023/4/20
+&lt;/h2&gt;&lt;p&gt;全面精简，删除不必要的东西&lt;/p&gt;
+&lt;h2 id=&#34;2022414&#34;&gt;2022/4/14
+&lt;/h2&gt;&lt;p&gt;正式添加友链，撰写魔改过程。添加自定义shortcodes.&lt;/p&gt;
+&lt;h2 id=&#34;2022413&#34;&gt;2022/4/13
+&lt;/h2&gt;&lt;p&gt;正式添加站点图标，&lt;a class=&#34;link&#34; href=&#34;https://realfavicongenerator.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;站点图标来源&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;修改CSS样式，具体参考这篇&lt;a class=&#34;link&#34; href=&#34;https://blog.echosec.top/p/custom-hugo-theme-styles/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;文章&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2022412&#34;&gt;2022/4/12
+&lt;/h2&gt;&lt;p&gt;正式搭建个人博客，采用Hugo+Stack+GihubPage,采用GihubAction自动化部署博客
+增加&lt;a class=&#34;link&#34; href=&#34;https://zl-maker.github.io/p/hugo-suosuo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bber界面&lt;/a&gt;，采用&lt;a class=&#34;link&#34; href=&#34;https://twikoo.js.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;twikoo评论&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Sun, 10 Apr 2022 20:52:18 +0800</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description>&lt;h2 id=&#34;hugo主题相关&#34;&gt;Hugo主题相关
+&lt;/h2&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scss/friend.css&#34;&gt;
+
+
+
+	&lt;a target=&#34;_blank&#34; href=https://lewky.cn/ title=雨临Lewis的博客---不想当写手的码农不是好咸鱼_(xз」∠)_ class=&#34;friend url&#34;&gt;
+	  &lt;div class=&#34;friend block whole default shadow&#34;&gt;
+		&lt;div class=&#34;friend block left&#34;&gt;
+		  &lt;img class=&#34;friend logo rotate&#34; src=https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg onerror=&#34;this.src=&#39;https:\/\/sdn.geekzu.org\/avatar\/d41d8cd98f00b204e9800998ecf8427e?d=retro&#39;&#34; /&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;friend block right&#34;&gt;
+		  &lt;div class=&#34;friend name&#34;&gt;雨临Lewis的博客&lt;/div&gt;
+		  &lt;div class=&#34;friend info&#34;&gt;&#34;不想当写手的码农不是好咸鱼_(xз」∠)_&#34;&lt;/div&gt;
+		&lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/a&gt;
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scss/friend.css&#34;&gt;
+
+
+
+	&lt;a target=&#34;_blank&#34; href=https://io-oi.me/ title=reuixiy---暗夜中,渴望一束光的关怀,在白天,却更渴望黑洞的吞噬,因为好奇心,想看看黑暗中有什么 class=&#34;friend url&#34;&gt;
+	  &lt;div class=&#34;friend block whole default shadow&#34;&gt;
+		&lt;div class=&#34;friend block left&#34;&gt;
+		  &lt;img class=&#34;friend logo rotate&#34; src=https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png onerror=&#34;this.src=&#39;https:\/\/sdn.geekzu.org\/avatar\/d41d8cd98f00b204e9800998ecf8427e?d=retro&#39;&#34; /&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;friend block right&#34;&gt;
+		  &lt;div class=&#34;friend name&#34;&gt;reuixiy&lt;/div&gt;
+		  &lt;div class=&#34;friend info&#34;&gt;&#34;暗夜中,渴望一束光的关怀,在白天,却更渴望黑洞的吞噬,因为好奇心,想看看黑暗中有什么&#34;&lt;/div&gt;
+		&lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/a&gt;
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scss/friend.css&#34;&gt;
+
+
+
+	&lt;a target=&#34;_blank&#34; href=https://immmmm.com/ title=木木木木木---无 class=&#34;friend url&#34;&gt;
+	  &lt;div class=&#34;friend block whole default shadow&#34;&gt;
+		&lt;div class=&#34;friend block left&#34;&gt;
+		  &lt;img class=&#34;friend logo rotate&#34; src=https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png onerror=&#34;this.src=&#39;https:\/\/sdn.geekzu.org\/avatar\/d41d8cd98f00b204e9800998ecf8427e?d=retro&#39;&#34; /&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;friend block right&#34;&gt;
+		  &lt;div class=&#34;friend name&#34;&gt;木木木木木&lt;/div&gt;
+		  &lt;div class=&#34;friend info&#34;&gt;&#34;无&#34;&lt;/div&gt;
+		&lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/a&gt;
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scss/friend.css&#34;&gt;
+
+
+
+	&lt;a target=&#34;_blank&#34; href=https://guanqr.com/ title=荷戟独彷徨---爱光学，爱生活，爱创造 class=&#34;friend url&#34;&gt;
+	  &lt;div class=&#34;friend block whole default shadow&#34;&gt;
+		&lt;div class=&#34;friend block left&#34;&gt;
+		  &lt;img class=&#34;friend logo rotate&#34; src=https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png onerror=&#34;this.src=&#39;https:\/\/sdn.geekzu.org\/avatar\/d41d8cd98f00b204e9800998ecf8427e?d=retro&#39;&#34; /&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;friend block right&#34;&gt;
+		  &lt;div class=&#34;friend name&#34;&gt;荷戟独彷徨&lt;/div&gt;
+		  &lt;div class=&#34;friend info&#34;&gt;&#34;爱光学，爱生活，爱创造&#34;&lt;/div&gt;
+		&lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/a&gt;
+
+
+&lt;h2 id=&#34;软件工程师&#34;&gt;软件工程师
+&lt;/h2&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scss/friend.css&#34;&gt;
+
+
+
+	&lt;a target=&#34;_blank&#34; href=https://heaciy.com/ title=Heaciy---Life&amp;#32;is&amp;#32;what&amp;#32;happens&amp;#32;to&amp;#32;you&amp;#32;while&amp;#32;you&amp;#39;re&amp;#32;busy&amp;#32;making&amp;#32;other&amp;#32;plans. class=&#34;friend url&#34;&gt;
+	  &lt;div class=&#34;friend block whole default shadow&#34;&gt;
+		&lt;div class=&#34;friend block left&#34;&gt;
+		  &lt;img class=&#34;friend logo rotate&#34; src=https://heaciy.com/img/avatar_hu5506042264f2f143136192cbc8fadc99_165574_300x0_resize_box_2.png onerror=&#34;this.src=&#39;https:\/\/sdn.geekzu.org\/avatar\/d41d8cd98f00b204e9800998ecf8427e?d=retro&#39;&#34; /&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;friend block right&#34;&gt;
+		  &lt;div class=&#34;friend name&#34;&gt;Heaciy&lt;/div&gt;
+		  &lt;div class=&#34;friend info&#34;&gt;&#34;Life is what happens to you while you&amp;#39;re busy making other plans.&#34;&lt;/div&gt;
+		&lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/a&gt;
+
+
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

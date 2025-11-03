@@ -116,60 +116,7 @@ html{
       }
 }
 
-// 页面配色样式####################################################################
-:root {
-    // 右边栏菜单字体大小
-    .section-title {
-        font-size: 1.8rem;
-    }
-    // 菜单字体大小
-    .menu {
-        font-size: 1.9rem;
-    }
-    // 文章内容图片圆角阴影
-    .article-page .main-article .article-content {
-        img {
-            max-width: 92% !important;
-            height: auto !important;
-            box-shadow: 0 0px 10px 2px #636b904d;
-            border-radius: 8px;
-        }
-    }
-    // 文章内容引用块左边样式
-    .article-content {
-        blockquote {
-            border-left: 6px solid #1bcdfc !important;
-            border-radius: 6px;
-        }
-    }
-    // 字体颜色
-    --card-text-color-main: #34495e;
-    // 默认模式下引用块背景样式
-    --blockquote-background-color: #b9ebea4d;
-    // 全局字体大小
-    --article-font-size: 2.0rem;
-    // 表格配色样式
-    --tr-even-background-color: #eff0fa54 !important;
-    &[data-scheme="dark"] {
-        //    暗黑模式下引用块背景样式
-        --blockquote-background-color: #313f5645;
-        // 整页背景配色
-        --body-background: #000;
-        // 卡片配色
-        --card-background: #191d24;
-        // 表格配色样式
-        --tr-even-background-color: #1e242ecf !important;
-        // 文章内容引用块左边样式
-        .article-content {
-            blockquote {
-                border-left: 6px solid #33619b8c !important;
-                border-radius: 6px;
-            }
-        }
-    }
-}
 
-```
 ## 友链引入
 主要参考[雨临Lewis](https://lewky.cn/posts/hugo-3.html/)的样式
 ### 友链界面

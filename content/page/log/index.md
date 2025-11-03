@@ -1,5 +1,5 @@
 ---
-title: "建站日志"
+title: "Log"
 date: 2022-04-12T11:36:40+08:00
 description: "记录搭建博客时的一些信息"
 layout: "log"

@@ -1,7 +1,7 @@
 baseurl: https://kwwgo.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
-pagerSize: 5
+pagerSize: 8
 title: kwwgoo
 
 enableGitInfo: true
