@@ -442,7 +442,7 @@ menu:
 新建文件`layouts\shortcodes\friend.html`，添加如下代码
 ```html
 {{ $options := (dict "targetPath" "/scss/friend.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "scss/friend.scss" | resources.ToCSS $options }}
+{{ $style := resources.Get "scss/friend.scss" | css.Sass $options }}
 
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
