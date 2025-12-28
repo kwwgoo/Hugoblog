@@ -5,8 +5,9 @@ description: ""
 draft: false
 slug:
 image: 
-categories:
-tags:
+categories: 
+    - lives
+tags: 
 hidden: false
 lastmod: 
 toc:
