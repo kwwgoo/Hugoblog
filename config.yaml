@@ -11,11 +11,11 @@ frontmatter:
 languages:
     en:
         languageName: English
-        title: kwwgoo's
+        title: 再圆阙
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: 人有悲观离合 月有阴晴圆阙
 
 
 # Change it to your Disqus shortname before using
