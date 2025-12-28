@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Computer science on kwwgoo&#39;s Blog</title>
+        <title>Computer science on 再圆阙</title>
         <link>http://localhost:1313/categories/tech/</link>
-        <description>Recent content in Computer science on kwwgoo&#39;s Blog</description>
+        <description>Recent content in Computer science on 再圆阙</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language>
+        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>http://localhost:1313/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
