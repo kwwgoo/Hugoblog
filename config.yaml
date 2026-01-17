@@ -44,7 +44,7 @@ params:
     favicon: /img/favicon.png
 
     footer:
-        since: 2025
+        since: 2026
         customText: 
 
     dateFormat:

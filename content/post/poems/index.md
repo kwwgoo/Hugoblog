@@ -58,7 +58,7 @@ toc:
 而那过去了的，就会成为亲切的怀恋。
 </div>
 
-<div class="poem-author" style="margin-top:40px;">▷ 未选择的路（弗罗斯特）</div>
+<div class="poem-author" style="margin-top:40px;">未选择的路（弗罗斯特）</div>
 <div class="poem-center">
 黄色的树林里分出两条路，
 
